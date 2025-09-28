@@ -4,7 +4,7 @@ import { usePuterStore } from "~/lib/puter"
 
 export const meta = () => ([
   { title: "Resubae | Auth" },
-  { name: 'descriptioin', content: 'Log into your account' },
+  { name: 'description', content: 'Log into your account' },
 ])
 
 const Auth = () => {
